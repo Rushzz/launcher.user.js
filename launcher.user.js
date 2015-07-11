@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name        Launcher
-// @namespace   AposLauncher
+// @namespace   VoRTeXBot
 // @include     http://agar.io/*
-// @version     2.93
+// @version     3.2
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author      @VoRTeX_Rushz
 // ==/UserScript==
 
 Number.prototype.mod = function(n) {
